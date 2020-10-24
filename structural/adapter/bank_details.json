@@ -1,0 +1,14 @@
+{
+    "bankDetails": [
+        {
+            "bankName": "HDFC",
+            "accountHolderName": "Manoj Pawar",
+            "accountNumber": 123456789012123
+        },
+        {
+            "bankName": "SBI",
+            "accountHolderName": "Sai Pawar",
+            "accountNumber": 987654321098765
+        }
+    ]
+}
